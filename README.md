@@ -1,20 +1,10 @@
-# Pokepedia Flutter App
+# MediCare Hub App
 
-A new Flutter project using the pokemon Api to learn.
+A hybrid Flutter project for medical care management and patient services.
 
 ## Screenshots
 
-This project is a starting point for a Flutter application.
+This project is a cross-platform application for healthcare services.
 
-### Ios
 
-![alt text](./readme-docs/image.png)
-![alt text](./readme-docs/image4.png)
-![alt text](./readme-docs/image5.png)
-![alt text](./readme-docs/image6.png)
-
-### Android 
-![alt text](./readme-docs//image2.png)
-
-### Browser (Chrome)
-![alt text](./readme-docs/image3.png)
+![alt text](./readme-docs/screenshot.gif)
